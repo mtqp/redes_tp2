@@ -43,11 +43,14 @@ class TraceRoute:
                     received_icmp = answered[0][1]
                     ellapsed = received_icmp.time - sent_icmp.sent_time - acumulated_time  # ACUMULADO
                     step.append(ip, ellapsed)
+                    step.type = received_icmp.type
                 else:
                     break
             responses.append(step)
             if step.rtt() != 'Unknown':
                 acumulated_time = acumulated_time + step.rtt()
+            if step.is_echo_reply():
+                break
         return responses
 
    
@@ -55,6 +58,7 @@ class Step:
     def __init__(self, ttl):
         self.ttl = ttl
         self.ip_ellapsed = dict()
+        self.type = None
 
     def append(self, ip, ellapsed):
         if self.ip_ellapsed.has_key(ip):
@@ -86,6 +90,9 @@ class Step:
         ips = self.ip_ellapsed.keys()
         print "TTL: {0}\tAVG: {1}\tZRTT: {2}\tIPs: {3}".format(ttl, rtt, zrtt, ips)
 
+    def is_echo_reply(self):
+        return str(self.type) == str(0)
+
     def _ellapsed(self):
         ellapsed = []
         for key in self.ip_ellapsed.keys():
@@ -95,6 +102,7 @@ class Step:
     def _is_uknown_ip(self):
         ellapsed = self._ellapsed()
         return len(ellapsed) == 0
+
 
 if (len(sys.argv) < 4):
     print 'Usage: python ping_emiter.py [ip] [time to live] [times repeat]'
