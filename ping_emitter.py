@@ -16,16 +16,15 @@ class TraceRoute:
         steps = self.trace(time_to_live, times_repeat)
         self.process(steps)
         for step in steps:
-            step.print(self.total_avg_rtt, self.total_std_rtt)
+            step.print_me(self.total_avg_rtt, self.total_std_rtt)
+        print "Total AVG: " + str(self.total_avg_rtt)
+        print "Total STD: " + str(self.total_std_rtt)
 
     def process(self, steps):
-        all_rtts = [ step.rtt() for step in steps if step.rtt() != 'Unkwown']
+        all_rtts = [ step.rtt() for step in steps if step.rtt() != 'Unknown']
         self.total_avg_rtt = sum(all_rtts) / float(len(all_rtts)) 
         self.total_std_rtt = numpy.std(all_rtts)
-        #complete steps with route_rtt
-        for step in steps:
-            step.avg_route_rtt(total_avg_rtt)
-
+        
     def trace(self, time_to_live, times_repeat):
         responses = []
         general_counter = 1
@@ -34,20 +33,21 @@ class TraceRoute:
             print 'Tracing with TTL: ' + str(i)
             step = Step(i)
             ip = '*'
-
             for j in range(0, times_repeat):
                 packet = IP(dst=self.ip_dst, ttl=i)/ ICMP(seq=general_counter)
                 general_counter += 1
-                time_before = time.clock()
                 answered, unanswered = sr(packet, timeout=1, verbose=False)
-                time_after = time.clock()
-                ellapsed = time_after - time_before - acumulated_time
                 if len(answered) == 1:
                     ip = answered[ICMP][0][1].src #arreglar estos magics numbers
+                    sent_icmp = answered[0][0]
+                    received_icmp = answered[0][1]
+                    ellapsed = received_icmp.time - sent_icmp.sent_time - acumulated_time  # ACUMULADO
                     step.append(ip, ellapsed)
-
+                else:
+                    break
             responses.append(step)
-            acumulated_time += step.avg()
+            if step.rtt() != 'Unknown':
+                acumulated_time = acumulated_time + step.rtt()
         return responses
 
    
@@ -64,22 +64,22 @@ class Step:
 
     def rtt(self): #es el RTT entre su nodo anterior y el, NO es el RTT desde el comienzo!
         if self._is_uknown_ip():
-            return 'Unkwown'
+            return 'Unknown'
 
         ellapsed = self._ellapsed()
         return float(sum(ellapsed)) / len(ellapsed)
 
     def std(self):
         if self._is_uknown_ip():
-            return 'Unkwown'
+            return 'Unknown'
         return numpy.std(self._ellapsed())
 
     def zrtt(self,total_avg_rtt, total_std_rtt):
         if self._is_uknown_ip():
-            return 'Unkwown'            
+            return 'Unknown'            
         return (self.rtt() - total_avg_rtt) / total_std_rtt
 
-    def print(self,total_avg_rtt,total_std_rtt):
+    def print_me(self,total_avg_rtt,total_std_rtt):
         ttl = str(self.ttl)
         rtt = str(self.rtt())
         zrtt = str(self.zrtt(total_avg_rtt,total_std_rtt))
