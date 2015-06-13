@@ -1,0 +1,23 @@
+TTL,IP,AVG,RTT,Locacion,Router,Empresa
+1,192.168.1.1,0.00656,-0.37711,Buenos Aires Argentina,-,-
+2,181.167.118.1,0.02353,0.00735,Buenos Aires Argentina,1-118-167-181.fibertel.com.ar,Cablevision SA
+3,Desconocido,-,-,-,-,-
+4,Desconocido,-,-,-,-,-
+5,Desconocido,-,-,-,-,-
+6,Desconocido,-,-,-,-,-
+7,200.89.165.222,0.00708,-0.36554,Buenos Aires Argentina,222-165-89-200.fibertel.com.ar,Cablevision SA
+8,67.17.161.13,-0.00406,-0.61793,EEUU,xe-1-1-3.ar3.eze1.gblx.net,Global Crossing
+9,67.16.177.230,0.15701,3.03171,Manhattan Illinois EEUU,ae1-0-70G.ar6.CHI1.gblx.net,Global Crossing
+10,67.69.246.33,-0.00227,-0.57732,Montreal Quebec Canada,bx4-chicagodt_10GE0-4-0-0_peer.net.bell.ca,Bell Sympatico
+11,Desconocido,-,-,-,-,-
+12,Desconocido,-,-,-,-,-
+13,Desconocido,-,-,-,-,-
+14,Desconocido,-,-,-,-,-
+15,Desconocido,-,-,-,-,-
+16,204.101.4.178,0.03325,0.22756,Otawwa Ontario Canada,-,Ontario Investment Services
+17,207.23.253.101,0.02926,0.13709,Vancouver British Columbia Canada,cr2-tx3928.vncv1.BC.net,BCNet
+18,134.87.30.241,0.00146,-0.49267,Vancouver British Columbia Canada,-,BCNet
+19,Desconocido,-,-,-,-,-
+20,Desconocido,-,-,-,-,-
+21,142.58.29.193,-0.00375,-0.61090,Burnaby(Vancouver) British Columbia Canada,bby-sh1125-EX4500-1-bby-sh1125-x-1.net.sfu.ca,Simon Fraser University
+22,142.58.102.68,0.00722,-0.36223,Burnaby(Vancouver) British Columbia Canada,buntzenf.sfu.ca,Simon Fraser University
