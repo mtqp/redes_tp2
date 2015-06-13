@@ -1,14 +1,26 @@
-10,66.110.9.61,0.00393,-0.36206,Montreal_Quebec_Canada,ix-2-3-1-0.tcore1.MLN-Miami.as6453.net
-11,63.243.152.62,0.08178,1.28382,Stoney Creek_Ontario_Canada,if-1-2.tcore2.MLN-Miami.as6453.net
-12,66.110.72.6,-0.00194,-0.48617,Montreal_Quebec_Canada,if-3-2.tcore2.DT8-Dallas.as6453.net
-13,66.110.57.82,0.00109,-0.42202,Montreal_Quebec_Canada,Wavex_Fortis_Network_for_Malaysia
-14,66.110.59.182,-0.00447,-0.53958,Los_Angeles_California_EEUU,Subic_Telecommunications Co._Inc.
-15,101.4.117.213,0.15674,2.86851,Bejing_Bejing_China,-
-16,101.4.117.101,0.00429,-0.35446,Bejing_Bejing_China,-
-17,101.4.117.50,0.00147,-0.41404,Bejing_Bejing_China,-
-18,101.4.115.69,0.02730,0.13199,Bejing_Bejing_China,-
-19,101.4.112.90,0.00882,-0.25870,Bejing_Bejing_China,-
-20,101.4.117.81,-0.00065,-0.45877,Bejing_Bejing_China,-
-21,202.112.41.178,-0.03880,-1.26532,Shanghai_Shanghai_China,CERNET_super_computer_center
-22,202.112.41.182,-0.01474,-0.75684,Shanghai_Shanghai_China,CERNET_super_computer_center
-23,162.105.252.133,0.03728,0.34304,Bejing_Bejing_China,-
+1,0.00609545707703,-0.316273392472,192.168.1.1,Buenos Aires Argentina 
+2,0.0485159397125,0.580525709205,181.167.118.1,Buenos Aires Argentina,1-118-167-181.fibertel.com.ar,Cablevision.SA
+3,Unknown,Unknown 
+4,Unknown,Unknown 
+5,Unknown,Unknown 
+6,-0.00283467769623,-0.505062777811,200.89.164.13,Buenos Aires Argentina,13-164-89-200.fibertel.com.ar,Cablevision.SA
+7,-0.00782964229584,-0.610659873542,200.89.165.250,Buenos Aires Argentina,250-165-89-200.fibertel.com.ar,Cablevision.SA
+8,-0.0106042861938,-0.66931781425,159.63.23.5,San Diego California EEUU,ge-0-1-2.ar3.eze1.gblx.net,Global Crossing
+9,0.125660228729,2.21141071549,67.16.134.218,Manhattan Illinois EEUU,po4-20G.ar1.MIA2.gblx.,Global Crossing
+10,0.0039294719696,-0.362063854483,66.110.9.61,Montreal Quebec Canada,ix-2-3-1-0.tcore1.MLN-Miami.as6453.net,CGI Group
+11,0.0817831754684,1.28381867731,63.243.152.62,Stoney Creek Ontario Canada,if-1-2.tcore2.MLN-Miami.as6453.net,Velcom
+12,-0.00194104777442,-0.486170807203,66.110.72.6,Montreal Quebec Canada,if-3-2.tcore2.DT8-Dallas.as6453.net,Netnexus Inc
+13,0.00109344588386,-0.422019458192,66.110.57.82,Montreal Quebec Canada,if-8-2.tcore1.LVW-Los-Angeles.as6453.net,Wavex Fortis Network for Malaysia
+14,-0.00446743965149,-0.539580524045,66.110.59.182,Los Angeles California EEUU,,Subic Telecommunications Co. Inc.
+15,0.156742286682,2.86850747438,101.4.117.213,Bejing Bejing China,,Cernet Corporation NOC 
+16,0.00428919792175,-0.354458992617,101.4.117.101,Bejing Bejing China ,,Cernet Corporation NOC 
+17,0.0014707326889,-0.414043347435,101.4.117.50,Bejing Bejing China,,Cernet Corporation NOC 
+18,0.0272990465164,0.131985532938,101.4.115.69,Bejing Bejing China,,Cernet Corporation NOC 
+19,0.00881888866425,-0.258698116352,101.4.112.90,Bejing Bejing China, Cernet Corporation NOC 
+20,-0.000645136833191,-0.458774330413,101.4.117.81,Bejing Bejing China,,Cernet Corporation NOC 
+21,-0.0387966156006,-1.26532366132,202.112.41.178,Shanghai Shanghai China,,CERNET super computer center
+22,-0.0147442658742,-0.756839922148,202.112.41.182,Shanghai Shanghai China,,CERNET super computer center
+23,0.0372823079427,0.34303876295,162.105.252.133,Bejing Bejing China,,China Education and Research Network Center 
+24,Unknown,Unknown 
+25,Unknown,Unknown 
+26,Unknown,Unknown 
