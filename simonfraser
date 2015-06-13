@@ -21,23 +21,23 @@ Tracing with TTL: 20
 Tracing with TTL: 21
 Tracing with TTL: 22
 TTL: 1	AVG: 0.00656478404999	ZRTT: -0.377112052448	IPs: ['192.168.1.1'] Buenos Aires, Argentina
-TTL: 2	AVG: 0.0235324859619	ZRTT: 0.00734673124899	IPs: ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar
+TTL: 2	AVG: 0.0235324859619	ZRTT: 0.00734673124899	IPs: ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar / Cablevision SA
 TTL: 3	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 4	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 5	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 6	AVG: Unknown	ZRTT: Unknown	IPs: []
-TTL: 7	AVG: 0.00707542896271	ZRTT: -0.365541721766	IPs: ['200.89.165.222'] Buenos Aires, Argentina / 222-165-89-200.fibertel.com.ar
-TTL: 8	AVG: -0.00406367778778	ZRTT: -0.617934618281	IPs: ['67.17.161.13'] EEUU / xe-1-1-3.ar3.eze1.gblx.net GLOBAL CROSSING 
-TTL: 9	AVG: 0.15700969696	ZRTT: 3.03170951521	IPs: ['67.16.177.230'] Manhattan, Illinois, EEUU / ae1-0-70G.ar6.CHI1.gblx.net Global Crossing
-TTL: 10	AVG: -0.00227131843567	ZRTT: -0.577322854824	IPs: ['67.69.246.33'] Montreal, Quebec, Canada / bx4-chicagodt_10GE0-4-0-0_peer.net.bell.ca
+TTL: 7	AVG: 0.00707542896271	ZRTT: -0.365541721766	IPs: ['200.89.165.222'] Buenos Aires, Argentina / 222-165-89-200.fibertel.com.ar / Cablevision SA
+TTL: 8	AVG: -0.00406367778778	ZRTT: -0.617934618281	IPs: ['67.17.161.13'] EEUU / xe-1-1-3.ar3.eze1.gblx.net / Global Crossing
+TTL: 9	AVG: 0.15700969696	ZRTT: 3.03170951521	IPs: ['67.16.177.230'] Manhattan, Illinois, EEUU / ae1-0-70G.ar6.CHI1.gblx.net / Global Crossing
+TTL: 10	AVG: -0.00227131843567	ZRTT: -0.577322854824	IPs: ['67.69.246.33'] Montreal, Quebec, Canada / bx4-chicagodt_10GE0-4-0-0_peer.net.bell.ca / Bell Sympatico
 TTL: 11	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 12	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 13	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 14	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 15	AVG: Unknown	ZRTT: Unknown	IPs: []
-TTL: 16	AVG: 0.0332515001297	ZRTT: 0.227562785555	IPs: ['204.101.4.178'] Otawwa, Ontario, Canada / Ontario Investment Services
-TTL: 17	AVG: 0.0292583942413	ZRTT: 0.137085911257	IPs: ['207.23.253.101'] Vancouver, British Columbia, Canada / cr2-tx3928.vncv1.BC.net BCNet
-TTL: 18	AVG: 0.00146460533142	ZRTT: -0.492673282658	IPs: ['134.87.30.241'] Vancouver, British Columbia, Canada / BCNet
+TTL: 16	AVG: 0.0332515001297	ZRTT: 0.227562785555	IPs: ['204.101.4.178'] Otawwa, Ontario, Canada / / Ontario Investment Services
+TTL: 17	AVG: 0.0292583942413	ZRTT: 0.137085911257	IPs: ['207.23.253.101'] Vancouver, British Columbia, Canada / cr2-tx3928.vncv1.BC.net / BCNet
+TTL: 18	AVG: 0.00146460533142	ZRTT: -0.492673282658	IPs: ['134.87.30.241'] Vancouver, British Columbia, Canada / / BCNet
 TTL: 19	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 20	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 21	AVG: -0.00375299453735	ZRTT: -0.61089507308	IPs: ['142.58.29.193'] Burnaby(Vancouver), British Columbia, Canada / bby-sh1125-EX4500-1-bby-sh1125-x-1.net.sfu.ca Simon Fraser University
