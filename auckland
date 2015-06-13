@@ -22,27 +22,27 @@ Tracing with TTL: 21
 Tracing with TTL: 22
 Tracing with TTL: 23
 TTL: 1	AVG: 0.0059609413147	ZRTT: -0.341324948837	IPs: ['192.168.1.1'] Buenos Aires, Argentina 
-TTL: 2	AVG: 0.0183759212494	ZRTT: -0.0309091329004	IPs: ['181.167.118.1'] Buenos Aires, Argentina 
+TTL: 2	AVG: 0.0183759212494	ZRTT: -0.0309091329004	IPs: ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar / Cablevision SA
 TTL: 3	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 4	AVG: Unknown	ZRTT: Unknown	IPs: []
 TTL: 5	AVG: Unknown	ZRTT: Unknown	IPs: []
-TTL: 6	AVG: 0.0057320356369	ZRTT: -0.347048352589	IPs: ['200.89.160.193'] Buenos Aires, Argentina 
-TTL: 7	AVG: 0.00855388641357	ZRTT: -0.276492691936	IPs: ['200.89.165.222'] Buenos Aires, Argentina 
-TTL: 8	AVG: -0.0120124816895	ZRTT: -0.790720340239	IPs: ['159.63.53.213'] EEUU
-TTL: 9	AVG: 0.131337618828	ZRTT: 2.79350924778	IPs: ['67.17.106.162'] Broomfield, Colorado, EEUU
-TTL: 10	AVG: 0.0106329679489	ZRTT: -0.224508734283	IPs: ['64.212.107.98'] GreenBelt, Maryland, EEUU
-TTL: 11	AVG: -0.00353816151619	ZRTT: -0.578834133018	IPs: ['129.250.3.172'] Englewood, Colorado, EEUU
-TTL: 12	AVG: 0.0245863497257	ZRTT: 0.124372247572	IPs: ['129.250.2.219'] Englewood, Colorado, EEUU
-TTL: 13	AVG: 0.0380380153656	ZRTT: 0.460708656271	IPs: ['129.250.7.69'] Englewood, Colorado, EEUU
-TTL: 14	AVG: 0.0229113817215	ZRTT: 0.0824924731031	IPs: ['129.250.2.230'] Englewood, Colorado, EEUU
-TTL: 15	AVG: -0.00309164524078	ZRTT: -0.567669740108	IPs: ['204.1.253.166'] Los Angeles, California, EEUU
-TTL: 16	AVG: 0.129580140114	ZRTT: 2.74956643097	IPs: ['202.158.194.172'] Sidney, New South Wales, Australia
-TTL: 17	AVG: -0.0113251606623	ZRTT: -0.773535027128	IPs: ['182.255.119.139'] Sidney, New South Wales, Australia
-TTL: 18	AVG: 0.00713712374369	ZRTT: -0.311916473728	IPs: ['210.7.39.251'] Wellington, Wellington, Nueva Zelanda
-TTL: 19	AVG: 0.00299897193909	ZRTT: -0.415384040784	IPs: ['210.7.39.178'] Wellington, Wellington, Nueva Zelanda
-TTL: 20	AVG: 0.00792305469513	ZRTT: -0.292265584331	IPs: ['130.216.95.106'] Auckland, Auckland, Nueva Zelanda
-TTL: 21	AVG: -0.00323388576508	ZRTT: -0.571226226597	IPs: ['130.216.95.122'] Auckland, Auckland, Nueva Zelanda
+TTL: 6	AVG: 0.0057320356369	ZRTT: -0.347048352589	IPs: ['200.89.160.193'] Buenos Aires, Argentina / 193-160-89-200.fibertel.com.ar / Cablevision SA
+TTL: 7	AVG: 0.00855388641357	ZRTT: -0.276492691936	IPs: ['200.89.165.222'] Buenos Aires, Argentina / 222-165-89-200.fibertel.com.ar / Cablevision SA
+TTL: 8	AVG: -0.0120124816895	ZRTT: -0.790720340239	IPs: ['159.63.53.213'] EEUU / xe-7-1-2.ar3.eze1.gblx.net / Global Crossing
+TTL: 9	AVG: 0.131337618828	ZRTT: 2.79350924778	IPs: ['67.17.106.162'] Broomfield, Colorado, EEUU / po2-30G.ar2.MIA2.gblx.net / Global Crossing
+TTL: 10	AVG: 0.0106329679489	ZRTT: -0.224508734283	IPs: ['64.212.107.98'] GreenBelt, Maryland, EEUU / / 185.PRSN - upto/20
+TTL: 11	AVG: -0.00353816151619	ZRTT: -0.578834133018	IPs: ['129.250.3.172'] Englewood, Colorado, EEUU /ae-4.r21.miamfl02.us.bb.gin.ntt.net / Verio Inc.
+TTL: 12	AVG: 0.0245863497257	ZRTT: 0.124372247572	IPs: ['129.250.2.219'] Englewood, Colorado, EEUU /ae-10.r20.dllstx09.us.bb.gin.ntt.net / Verio Inc.
+TTL: 13	AVG: 0.0380380153656	ZRTT: 0.460708656271	IPs: ['129.250.7.69'] Englewood, Colorado, EEUU / ae-3.r20.lsanca03.us.bb.gin.ntt.net / Verio Inc.
+TTL: 14	AVG: 0.0229113817215	ZRTT: 0.0824924731031	IPs: ['129.250.2.230'] Englewood, Colorado, EEUU / ae-1.r05.lsanca03.us.bb.gin.ntt.net / Verio Inc.
+TTL: 15	AVG: -0.00309164524078	ZRTT: -0.567669740108	IPs: ['204.1.253.166'] Los Angeles, California, EEUU /  xe-0-0-0-16.r05.lsanca03.us.ce.gin.ntt.net / Levinson and Hill DSL Dallas 
+TTL: 16	AVG: 0.129580140114	ZRTT: 2.74956643097	IPs: ['202.158.194.172'] Sidney, New South Wales, Australia / xe-0-0-3.pe1.tkpa.akl.aarnet.net.au / Australian Academic and Research Network
+TTL: 17	AVG: -0.0113251606623	ZRTT: -0.773535027128	IPs: ['182.255.119.139'] Sidney, New South Wales, Australia / et-1-0-0-201.and12-nsh.reannz.co.nz / Australian Academic and Research Network
+TTL: 18	AVG: 0.00713712374369	ZRTT: -0.311916473728	IPs: ['210.7.39.251'] Wellington, Wellington, Nueva Zelanda / / Research and Educationa Advanced Network New Zealand (REANNZ)
+TTL: 19	AVG: 0.00299897193909	ZRTT: -0.415384040784	IPs: ['210.7.39.178'] Wellington, Wellington, Nueva Zelanda / / Research and Educationa Advanced Network New Zealand (REANNZ)
+TTL: 20	AVG: 0.00792305469513	ZRTT: -0.292265584331	IPs: ['130.216.95.106'] Auckland, Auckland, Nueva Zelanda / br-cpf1-north.net.auckland.ac.nz / imported inetnum object for AUCKLA
+TTL: 21	AVG: -0.00323388576508	ZRTT: -0.571226226597	IPs: ['130.216.95.122'] Auckland, Auckland, Nueva Zelanda / cxj-alfa-430.net.auckland.ac.nz / imported inetnum object for AUCKLA
 TTL: 22	AVG: Unknown	ZRTT: Unknown	IPs: []
-TTL: 23	AVG: -0.00793675581614	ZRTT: -0.688813629221	IPs: ['130.216.159.127'] Auckland, Auckland, Nueva Zelanda
+TTL: 23	AVG: -0.00793675581614	ZRTT: -0.688813629221	IPs: ['130.216.159.127'] Auckland, Auckland, Nueva Zelanda / www.auckland.ac.nz / imported inetnum object for AUCKLA
 Total AVG: 0.0196121220003
 Total STD: 0.0399946758423
