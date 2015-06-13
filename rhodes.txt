@@ -1,0 +1,62 @@
+Tracing with TTL 1
+Tracing with TTL 2
+Tracing with TTL 3
+Tracing with TTL 4
+Tracing with TTL 5
+Tracing with TTL 6
+Tracing with TTL 7
+Tracing with TTL 8
+Tracing with TTL 9
+Tracing with TTL 10
+Tracing with TTL 11
+Tracing with TTL 12
+Tracing with TTL 13
+Tracing with TTL 14
+Tracing with TTL 15
+Tracing with TTL 16
+Tracing with TTL 17
+Tracing with TTL 18
+Tracing with TTL 19
+Tracing with TTL 20
+Tracing with TTL 21
+Tracing with TTL 22
+Tracing with TTL 23
+Tracing with TTL 24
+Tracing with TTL 25
+Tracing with TTL 26
+Tracing with TTL 27
+Tracing with TTL 28
+Tracing with TTL 29
+Tracing with TTL 30
+TTL 1	AVG 0.00739252567291	ZRTT -0.209170343554	IPs ['192.168.1.1'] Buenos Aires, Argentina
+TTL 2	AVG 0.0219541788101	ZRTT 0.0963258002404	IPs ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar
+TTL 3	AVG Unknown	ZRTT Unknown	IPs []
+TTL 4	AVG Unknown	ZRTT Unknown	IPs []
+TTL 5	AVG Unknown	ZRTT Unknown	IPs []
+TTL 6	AVG -0.000663606325785	ZRTT -0.378183932624	IPs ['200.89.164.13'] Buenos Aires, Argentina / 13-164-89-200.fibertel.com.ar
+TTL 7	AVG -0.00141891493942	ZRTT -0.394029926665	IPs ['200.89.165.250'] Buenos Aires, Argentina / 250-165-89-200.fibertel.com.ar
+TTL 8	AVG 0.0108631914312	ZRTT -0.136357525149	IPs ['208.178.195.205'] Alexandria, Virginia, EEUU / ge-1-2-0.ar3.eze1.gblx.net / Global Crossing
+TTL 9	AVG 0.155205861727	ZRTT 2.89187894945	IPs ['67.16.139.18'] Manhattan, Illinois, EEUU / po3-20G.ar2.MIA2.gblx.net / Global Crossing
+TTL 10	AVG -0.0163252989451	ZRTT -0.706758350337	IPs ['154.54.12.69'] Washington, District of Columbia, EEUU / te0-0-0-34.ccr21.mia03.atlas.cogentco.com / Performance Systems International 
+TTL 11	AVG -0.0215768009424	ZRTT -0.816932215501	IPs ['154.54.80.41'] Washington, District of Columbia, EEUU / be2054.ccr21.mia01.atlas.cogentco.com /  Performance Systems International 
+TTL 12	AVG 0.0131346295277	ZRTT -0.0887038986811	IPs ['154.54.24.193'] Washington, District of Columbia, EEUU / be2122.ccr41.atl01.atlas.cogentco.com / Performance Systems International
+TTL 13	AVG 0.033784643809	ZRTT 0.344522993403	IPs ['154.54.31.106'] Washington, District of Columbia, EEUU / be2170.mpd21.dca01.atlas.cogentco.com / Performance Systems International
+TTL 14	AVG -0.0211254199346	ZRTT -0.807462469451	IPs ['154.54.80.161'] Washington, District of Columbia, EEUU / be2518.ccr41.jfk02.atlas.cogentco.com / Performance Systems International
+TTL 15	AVG 0.0880746285121	ZRTT 1.4834995105	IPs ['154.54.30.186'] Washington, District of Columbia, EEUU / be2317.ccr41.lon13.atlas.cogentco.com / Performance Systems International
+TTL 16	AVG -0.000471870987504	ZRTT -0.37416142186	IPs ['130.117.50.201'] Washington, District of Columbia / be2163.ccr22.lon01.atlas.cogentco.com / Performance Systems International
+TTL 17	AVG 0.00358305860449	ZRTT -0.289091042691	IPs ['154.54.38.190'] Washington, District of Columbia /be2426.rcr11.b015533-1.lon01.atlas.cogentco.com / Performance Systems International 
+TTL 18	AVG -0.00594920317332	ZRTT -0.489073090562	IPs ['149.14.80.210'] Washington, District of Columbia / / Psi
+TTL 19	AVG 0.00472327731122	ZRTT -0.26516982889	IPs ['196.32.209.50'] Cape Town, Western Cape, South Africa / xe-0-0-0.ams1.nl.ubuntunet.net / Ubuntunet Alliance For Research And Education Networking
+TTL 20	AVG 0.170250123123	ZRTT 3.20749997126	IPs ['196.32.209.117'] Cape Town, Western Cape, South Africa / te-1-4-2018-mtz1-pe1.ubuntunet.net / Ubuntunet Alliance For Research And Education Networking
+TTL 21	AVG 0.029939022431	ZRTT 0.263843795072	IPs ['155.232.6.86'] Wynberg (Cape Town), Western Cape, South Africa / xe0-0-2-700-dur1-pe2-n.tenet.ac.za / Uninet
+TTL 22	AVG 0.004786889981	ZRTT -0.263835267139	IPs ['155.232.6.133']  Wynberg (Cape Town), Western Cape, South Africa / te3-0-1-dur1-pe1-n.tenet.ac.za / Uninet
+TTL 23	AVG -0.0242410279456	ZRTT -0.872826355266	IPs ['155.232.31.179'] Wynberg (Cape Town), Western Cape, South Africa / xe0-0-0-dur1-pe3-n.tenet.ac.za / Uninet
+TTL 24	AVG 0.0144601813833	ZRTT -0.0608944888257	IPs ['155.232.6.69'] Wynberg (Cape Town), Western Cape, South Africa / te-0-1-0-0-els1-pe2-r.tenet.ac.za / Uninet
+TTL 25	AVG 0.019240238792	ZRTT 0.0393887064773	IPs ['155.232.6.45'] Wynberg (Cape Town), Western Cape, South Africa / te2-0-0-plz1-pe1-n.tenet.ac.za / Uninet
+TTL 26	AVG -0.0175986925761	ZRTT -0.733473506929	IPs ['155.232.5.5'] Wynberg (Cape Town), Western Cape, South Africa  / te0-0-0-0-grh1-pe1-n.tenet.ac.za / Uninet
+TTL 27	AVG 0.000568930308024	ZRTT -0.352325935241	IPs ['192.42.99.252'] Grahamston, Eastern Cape, South Africa / strubenedge-tenet.net.ru.ac.za / Rhodes University Computing Centre
+TTL 28	AVG 0.0388326803843	ZRTT 0.450428256559	IPs ['192.42.99.247'] Grahamston, Eastern Cape, South Africa / strubencore-strubenedge.net.ru.ac.za / Rhodes University Computing Centre
+TTL 29	AVG -0.0390914281209	ZRTT -1.18438026639	IPs ['146.231.2.10'] Grahamston, Eastern Cape, South Africa / datacentres-1-strubencore.net.ru.ac.za / Rhodes University
+TTL 30	AVG 0.000462532043457	ZRTT -0.354558117207	IPs ['146.231.129.7'] Grahamston, Eastern Cape, South Africa / www-real.ru.ac.za / Rhodes University
+Total AVG 0.0173627529615
+Total STD 0.047665587383
