@@ -29,12 +29,12 @@ Tracing with TTL 28
 Tracing with TTL 29
 Tracing with TTL 30
 TTL 1	AVG 0.00739252567291	ZRTT -0.209170343554	IPs ['192.168.1.1'] Buenos Aires, Argentina
-TTL 2	AVG 0.0219541788101	ZRTT 0.0963258002404	IPs ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar
+TTL 2	AVG 0.0219541788101	ZRTT 0.0963258002404	IPs ['181.167.118.1'] Buenos Aires, Argentina / 1-118-167-181.fibertel.com.ar / CableVision SA
 TTL 3	AVG Unknown	ZRTT Unknown	IPs []
 TTL 4	AVG Unknown	ZRTT Unknown	IPs []
 TTL 5	AVG Unknown	ZRTT Unknown	IPs []
-TTL 6	AVG -0.000663606325785	ZRTT -0.378183932624	IPs ['200.89.164.13'] Buenos Aires, Argentina / 13-164-89-200.fibertel.com.ar
-TTL 7	AVG -0.00141891493942	ZRTT -0.394029926665	IPs ['200.89.165.250'] Buenos Aires, Argentina / 250-165-89-200.fibertel.com.ar
+TTL 6	AVG -0.000663606325785	ZRTT -0.378183932624	IPs ['200.89.164.13'] Buenos Aires, Argentina / 13-164-89-200.fibertel.com.ar / CableVision SA
+TTL 7	AVG -0.00141891493942	ZRTT -0.394029926665	IPs ['200.89.165.250'] Buenos Aires, Argentina / 250-165-89-200.fibertel.com.ar / CableVision SA
 TTL 8	AVG 0.0108631914312	ZRTT -0.136357525149	IPs ['208.178.195.205'] Alexandria, Virginia, EEUU / ge-1-2-0.ar3.eze1.gblx.net / Global Crossing
 TTL 9	AVG 0.155205861727	ZRTT 2.89187894945	IPs ['67.16.139.18'] Manhattan, Illinois, EEUU / po3-20G.ar2.MIA2.gblx.net / Global Crossing
 TTL 10	AVG -0.0163252989451	ZRTT -0.706758350337	IPs ['154.54.12.69'] Washington, District of Columbia, EEUU / te0-0-0-34.ccr21.mia03.atlas.cogentco.com / Performance Systems International 
