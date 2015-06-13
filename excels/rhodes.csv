@@ -1,0 +1,31 @@
+TTL,IP,AVG,ZRTT,Locación,Router,Empresa
+1,192.168.1.1,0.00739,-0.20917," Buenos Aires, Argentina",-,-
+2,181.167.118.1,0.02195,0.09633," Buenos Aires, Argentina",1-118-167-181.fibertel.com.ar,CableVision SA
+3,Desconocido,-,-,-,-,-
+4,Desconocido,-,-,-,-,-
+5,Desconocido,-,-,-,-,-
+6,200.89.164.13,-0.00066,-0.37818," Buenos Aires, Argentina",13-164-89-200.fibertel.com.ar,CableVision SA
+7,200.89.165.250,-0.00142,-0.39403," Buenos Aires, Argentina",250-165-89-200.fibertel.com.ar,CableVision SA
+8,208.178.195.205,0.01086,-0.13636," Buenos Aires, Argentina",ge-1-2-0.ar3.eze1.gblx.net,Global Crossing
+9,67.16.139.18,0.15521,2.89188," Manhattan, Illinois, EEUU",po3-20G.ar2.MIA2.gblx.net,Global Crossing
+10,154.54.12.69,-0.01633,-0.70676," Washington, Columbia, EEUU",te0-0-0-34.ccr21.mia03.atlas.cogentco.com,Performance Systems International 
+11,154.54.80.41,-0.02158,-0.81693," Washington, Columbia, EEUU",be2054.ccr21.mia01.atlas.cogentco.com,Performance Systems International 
+12,154.54.24.193,0.01313,-0.08870," Washington, Columbia, EEUU",be2122.ccr41.atl01.atlas.cogentco.com,Performance Systems International
+13,154.54.31.106,0.03378,0.34452," Washington, Columbia, EEUU",be2170.mpd21.dca01.atlas.cogentco.com,Performance Systems International
+14,154.54.80.161,-0.02113,-0.80746," Washington, Columbia, EEUU",be2518.ccr41.jfk02.atlas.cogentco.com,Performance Systems International
+15,154.54.30.186,0.08807,1.48350," Washington, Columbia, EEUU",be2317.ccr41.lon13.atlas.cogentco.com,Performance Systems International
+16,130.117.50.201,-0.00047,-0.37416," Washington, Columbia, EEUU",be2163.ccr22.lon01.atlas.cogentco.com,Performance Systems International
+17,154.54.38.190,0.00358,-0.28909," Washington, Columbia, EEUU",be2426.rcr11.b015533-1.lon01.atlas.cogentco.com,Performance Systems International 
+18,149.14.80.210,-0.00595,-0.48907," Washington, Columbia, EEUU",-,Performance Systems International 
+19,196.32.209.50,0.00472,-0.26517," Cape Town, Western Cape, South Africa",xe-0-0-0.ams1.nl.ubuntunet.net,Ubuntunet Alliance For Research And Education Networking
+20,196.32.209.117,0.17025,3.20750," Cape Town, Western Cape, South Africa",te-1-4-2018-mtz1-pe1.ubuntunet.net,Ubuntunet Alliance For Research And Education Networking
+21,155.232.6.86,0.02994,0.26384," Wynberg (Cape Town), Western Cape, South Africa",xe0-0-2-700-dur1-pe2-n.tenet.ac.za,Uninet
+22,155.232.6.133,0.00479,-0.26384," Wynberg (Cape Town), Western Cape, South Africa",te3-0-1-dur1-pe1-n.tenet.ac.za,Uninet
+23,155.232.31.179,-0.02424,-0.87283," Wynberg (Cape Town), Western Cape, South Africa",xe0-0-0-dur1-pe3-n.tenet.ac.za,Uninet
+24,155.232.6.69,0.01446,-0.06089," Wynberg (Cape Town), Western Cape, South Africa",te-0-1-0-0-els1-pe2-r.tenet.ac.za,Uninet
+25,155.232.6.45,0.01924,0.03939," Wynberg (Cape Town), Western Cape, South Africa",te2-0-0-plz1-pe1-n.tenet.ac.za,Uninet
+26,155.232.5.5,-0.01760,-0.73347," Wynberg (Cape Town), Western Cape, South Africa",te0-0-0-0-grh1-pe1-n.tenet.ac.za,Uninet
+27,192.42.99.252,0.00057,-0.35233," Grahamston, Eastern Cape, South Africa",strubenedge-tenet.net.ru.ac.za,Rhodes University Computing Centre
+28,192.42.99.247,0.03883,0.45043," Grahamston, Eastern Cape, South Africa",strubencore-strubenedge.net.ru.ac.za,Rhodes University Computing Centre
+29,146.231.2.10,-0.03909,-1.18438," Grahamston, Eastern Cape, South Africa",datacentres-1-strubencore.net.ru.ac.za,Rhodes University
+30,146.231.129.7,0.00046,-0.35456," Grahamston, Eastern Cape, South Africa",www-real.ru.ac.za,Rhodes University

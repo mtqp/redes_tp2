@@ -1,0 +1,24 @@
+TTL,IP,AVG,ZRTT,Locacion,Router,Empresa
+1,192.168.1.1,0.00596,-0.34132,Buenos Aires Argentina ,-,-
+2,181.167.118.1,0.01838,-0.03091,Buenos Aires Argentina,1-118-167-181.fibertel.com.ar,Cablevision SA
+3,Desconocido,-,-,-,-,-
+4,Desconocido,-,-,-,-,-
+5,Desconocido,-,-,-,-,-
+6,200.89.160.193,0.00573,-0.34705,Buenos Aires  Argentina,193-160-89-200.fibertel.com.ar,Cablevision SA
+7,200.89.165.222,0.00855,-0.27649,Buenos Aires  Argentina,222-165-89-200.fibertel.com.ar,Cablevision SA
+8,159.63.53.213,-0.01201,-0.79072,EEUU,xe-7-1-2.ar3.eze1.gblx.net,Global Crossing
+9,67.17.106.162,0.13134,2.79351,Broomfield  Colorado  EEUU,po2-30G.ar2.MIA2.gblx.net,Global Crossing
+10,64.212.107.98,0.01063,-0.22451,GreenBelt  Maryland  EEUU,185.PRSN - upto 20,-
+11,129.250.3.172,-0.00354,-0.57883,Englewood Colorado EEUU,ae-4.r21.miamfl02.us.bb.gin.ntt.net,Verio Inc.
+12,129.250.2.219,0.02459,0.12437,Englewood Colorado EEUU,ae-10.r20.dllstx09.us.bb.gin.ntt.net,Verio Inc.
+13,129.250.7.69,0.03804,0.46071,Englewood Colorado EEUU,ae-3.r20.lsanca03.us.bb.gin.ntt.net,Verio Inc.
+14,129.250.2.230,0.02291,0.08249,Englewood Colorado EEUU,ae-1.r05.lsanca03.us.bb.gin.ntt.net,Verio Inc.
+15,204.1.253.166,-0.00309,-0.56767,Los Angeles California EEUU,xe-0-0-0-16.r05.lsanca03.us.ce.gin.ntt.net,Levinson and Hill DSL Dallas 
+16,202.158.194.172,0.12958,2.74957,Sidney New South Wales Australia,xe-0-0-3.pe1.tkpa.akl.aarnet.net.au,Australian Academic and Research Network
+17,182.255.119.139,-0.01133,-0.77354,Sidney New South Wales Australia,et-1-0-0-201.and12-nsh.reannz.co.nz,Australian Academic and Research Network
+18,210.7.39.251,0.00714,-0.31192,Wellington Wellington Nueva Zelanda,-,Research and Educationa Advanced Network New Zealand (REANNZ)
+19,210.7.39.178,0.00300,-0.41538,Wellington Wellington Nueva Zelanda,-,Research and Educationa Advanced Network New Zealand (REANNZ)
+20,130.216.95.106,0.00792,-0.29227,Auckland Auckland Nueva Zelanda,br-cpf1-north.net.auckland.ac.nz,imported inetnum object for AUCKLA
+21,130.216.95.122,-0.00323,-0.57123,Auckland Auckland Nueva Zelanda,cxj-alfa-430.net.auckland.ac.nz,imported inetnum object for AUCKLA
+22,Desconocido,-,-,-,-,-
+23,130.216.159.127,-0.00794,-0.68881,Auckland Auckland Nueva Zelanda,www.auckland.ac.nz,imported inetnum object for AUCKLA
