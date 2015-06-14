@@ -1,0 +1,31 @@
+TTL,IP (1),AVG (1),ZRTT (1),IP (2),AVG (2),ZRTT (2),IP (3),AVG (3),ZRTT (3),IP (4),AVG (4),ZRTT (4),Locación,Router,Empresa
+1,192.168.1.1,0.00739,-0.20917,192.168.1.1,0.00872,-0.19054,192.168.1.1,0.00618,-0.22813,192.168.1.1,0.00607,-0.25516," Buenos Aires, Argentina",-,-
+2,181.167.118.1,0.02195,0.09633,181.167.118.1,0.01592,-0.03594,181.167.118.1,0.01361,-0.07707,181.167.118.1,0.01863,0.01494," Buenos Aires, Argentina",1-118-167-181.fibertel.com.ar,CableVision SA
+3,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+4,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+5,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+6,200.89.164.13,-0.00066,-0.37818,200.89.164.13,-0.00189,-0.41871,200.89.164.13,0.01756,0.00340,200.89.164.13,0.00046,-0.37602," Buenos Aires, Argentina",13-164-89-200.fibertel.com.ar,CableVision SA
+7,200.89.165.250,-0.00142,-0.39403,200.89.165.250,0.01679,-0.01712,200.89.165.250,0.00514,-0.24931,200.89.165.250,0.00410,-0.29771," Buenos Aires, Argentina",250-165-89-200.fibertel.com.ar,CableVision SA
+8,208.178.195.205,0.01086,-0.13636,208.178.195.205,-0.01938,-0.79470,208.178.195.205,0.02239,0.10161,208.178.195.205,-0.01213,-0.64682," Buenos Aires, Argentina",ge-1-2-0.ar3.eze1.gblx.net,Global Crossing
+9,67.16.139.18,0.15521,2.89188,67.16.139.18,0.14004,2.63208,67.16.139.18,0.16479,2.99769,67.16.139.18,0.13842,2.59247," Manhattan, Illinois, EEUU",po3-20G.ar2.MIA2.gblx.net,Global Crossing
+10,154.54.12.69,-0.01633,-0.70676,154.54.12.69,-0.01198,-0.63559,154.54.12.69,-0.07526,-1.88435,154.54.12.69,-0.00653,-0.52632," Washington, Columbia, EEUU",te0-0-0-34.ccr21.mia03.atlas.cogentco.com,Performance Systems International 
+11,154.54.80.41,-0.02158,-0.81693,154.54.80.41,0.00885,-0.18781,154.54.80.41,-0.00367,-0.42849,154.54.80.41,0.00249,-0.33217," Washington, Columbia, EEUU",be2054.ccr21.mia01.atlas.cogentco.com,Performance Systems International 
+12,154.54.24.193,0.01313,-0.08870,154.54.24.193,0.00840,-0.19749,154.54.24.193,0.01088,-0.13247,154.54.24.193,0.01414,-0.08156," Washington, Columbia, EEUU",be2122.ccr41.atl01.atlas.cogentco.com,Performance Systems International
+13,154.54.31.106,0.03378,0.34452,154.54.31.106,0.01546,-0.04576,154.54.31.106,0.00342,-0.28415,154.54.31.106,0.00561,-0.26520," Washington, Columbia, EEUU",be2170.mpd21.dca01.atlas.cogentco.com,Performance Systems International
+14,154.54.80.161,-0.02113,-0.80746,154.54.80.161,0.00096,-0.35750,154.54.80.161,0.02045,0.06218,154.54.80.161,0.01323,-0.10122," Washington, Columbia, EEUU",be2518.ccr41.jfk02.atlas.cogentco.com,Performance Systems International
+15,154.54.30.186,0.08807,1.48350,154.54.30.186,0.09519,1.66808,154.54.30.186,0.08242,1.32249,154.54.30.186,0.07751,1.28202," Washington, Columbia, EEUU",be2317.ccr41.lon13.atlas.cogentco.com,Performance Systems International
+16,130.117.50.201,-0.00047,-0.37416,130.117.50.201,-0.01821,-0.76949,130.117.50.201,-0.01036,-0.56457,130.117.50.201,0.05316,0.75800," Washington, Columbia, EEUU",be2163.ccr22.lon01.atlas.cogentco.com,Performance Systems International
+17,154.54.38.190,0.00358,-0.28909,154.54.38.190,-0.00496,-0.48460,154.54.38.190,-0.00342,-0.42337,154.54.38.190,-0.05766,-1.62657," Washington, Columbia, EEUU",be2426.rcr11.b015533-1.lon01.atlas.cogentco.com,Performance Systems International 
+18,149.14.80.210,-0.00595,-0.48907,149.14.80.210,0.01489,-0.05810,149.14.80.210,0.01090,-0.13217,149.14.80.210,0.00535,-0.27081," Washington, Columbia, EEUU",-,Performance Systems International 
+19,196.32.209.50,0.00472,-0.26517,196.32.209.50,-0.00522,-0.49018,196.32.209.50,0.00600,-0.23181,196.32.209.50,0.00303,-0.32075," Cape Town, Western Cape, South Africa",xe-0-0-0.ams1.nl.ubuntunet.net,Ubuntunet Alliance For Research And Education Networking
+20,196.32.209.117,0.17025,3.20750,196.32.209.117,0.18574,3.61458,196.32.209.117,0.17132,3.13037,196.32.209.117,0.16961,3.26359," Cape Town, Western Cape, South Africa",te-1-4-2018-mtz1-pe1.ubuntunet.net,Ubuntunet Alliance For Research And Education Networking
+21,155.232.6.86,0.02994,0.26384,155.232.6.86,0.01200,-0.12020,155.232.6.86,0.01577,-0.03301,155.232.6.86,0.03154,0.29270," Wynberg (Cape Town), Western Cape, South Africa",xe0-0-2-700-dur1-pe2-n.tenet.ac.za,Uninet
+22,155.232.6.133,0.00479,-0.26384,155.232.6.133,0.00930,-0.17821,155.232.6.133,0.00661,-0.21938,155.232.6.133,0.00313,-0.31840," Wynberg (Cape Town), Western Cape, South Africa",te3-0-1-dur1-pe1-n.tenet.ac.za,Uninet
+23,155.232.31.179,-0.02424,-0.87283,155.232.31.179,-0.01374,-0.67350,155.232.31.179,-0.01527,-0.66427,155.232.31.179,-0.01212,-0.64663," Wynberg (Cape Town), Western Cape, South Africa",xe0-0-0-dur1-pe3-n.tenet.ac.za,Uninet
+24,155.232.6.69,0.01446,-0.06089,155.232.6.69,0.00629,-0.24277,155.232.6.69,0.01446,-0.05963,155.232.6.69,0.01384,-0.08811," Wynberg (Cape Town), Western Cape, South Africa",te-0-1-0-0-els1-pe2-r.tenet.ac.za,Uninet
+25,155.232.6.45,0.01924,0.03939,155.232.6.45,0.02029,0.05800,155.232.6.45,0.00755,-0.20021,155.232.6.45,0.02530,0.15851," Wynberg (Cape Town), Western Cape, South Africa",te2-0-0-plz1-pe1-n.tenet.ac.za,Uninet
+26,155.232.5.5,-0.01760,-0.73347,155.232.5.5,-0.01761,-0.75659,155.232.5.5,0.00041,-0.34541,155.232.5.5,-0.02320,-0.88506," Wynberg (Cape Town), Western Cape, South Africa",te0-0-0-0-grh1-pe1-n.tenet.ac.za,Uninet
+27,192.42.99.252,0.00057,-0.35233,192.42.99.252,0.01349,-0.08816,192.42.99.252,-0.02216,-0.80445,192.42.99.252,-0.01467,-0.70145," Grahamston, Eastern Cape, South Africa",strubenedge-tenet.net.ru.ac.za,Rhodes University Computing Centre
+28,192.42.99.247,0.03883,0.45043,192.42.99.247,-0.00954,-0.58318,192.42.99.247,0.03104,0.27755,192.42.99.247,0.02125,0.07142," Grahamston, Eastern Cape, South Africa",strubencore-strubenedge.net.ru.ac.za,Rhodes University Computing Centre
+29,146.231.2.10,-0.03909,-1.18438,146.231.2.10,-0.00066,-0.39216,146.231.2.10,-0.01742,-0.70800,146.231.2.10,-0.01431,-0.69366," Grahamston, Eastern Cape, South Africa",datacentres-1-strubencore.net.ru.ac.za,Rhodes University
+30,146.231.129.7,0.00046,-0.35456,146.231.129.7,0.00575,-0.25445,146.231.129.7,0.00633,-0.22502,Desconocido,-,-," Grahamston, Eastern Cape, South Africa",www-real.ru.ac.za,Rhodes University
