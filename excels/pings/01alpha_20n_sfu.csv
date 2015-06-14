@@ -1,0 +1,161 @@
+ip,alpha,total,failed,succeeded,lossProbability,ertt,throughput,
+www.sfu.ca,0.8,9,0,9,0,0.278587768,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.8,29,0,29,0,0.267137679,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.8,49,0,49,0,0.267919772,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.8,69,0,69,0,0.264185742,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.8,89,0,89,0,0.2899193,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.8,109,1,108,0.009174312,0.263621416,48.50407086,
+www.sfu.ca,0.8,129,1,128,0.007751938,0.269819629,51.55454323,
+www.sfu.ca,0.8,149,1,148,0.006711409,0.269176699,55.53941504,
+www.sfu.ca,0.81,9,0,9,0,0.279896669,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.81,29,0,29,0,0.266947895,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.81,49,0,49,0,0.267679143,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.81,69,0,69,0,0.26451138,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.81,89,0,89,0,0.290795242,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.81,109,1,108,0.009174312,0.263815223,48.46843822,
+www.sfu.ca,0.81,129,1,128,0.007751938,0.269761521,51.56564842,
+www.sfu.ca,0.81,149,1,148,0.006711409,0.269169228,55.54095655,
+www.sfu.ca,0.82,9,0,9,0,0.281291585,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.82,29,0,29,0,0.266775418,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.82,49,0,49,0,0.267430084,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.82,69,0,69,0,0.26484021,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.82,89,0,89,0,0.291599341,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.82,109,1,108,0.009174312,0.264033301,48.42840575,
+www.sfu.ca,0.82,129,1,128,0.007751938,0.269686302,51.58003078,
+www.sfu.ca,0.82,149,1,148,0.006711409,0.269170981,55.54059483,
+www.sfu.ca,0.83,9,0,9,0,0.282778411,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.83,29,0,29,0,0.266630232,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.83,49,0,49,0,0.267173926,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.83,69,0,69,0,0.265170103,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.83,89,0,89,0,0.292316696,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.83,109,1,108,0.009174312,0.264282915,48.38266543,
+www.sfu.ca,0.83,129,1,128,0.007751938,0.269593612,51.59776471,
+www.sfu.ca,0.83,149,1,148,0.006711409,0.26918302,55.53811073,
+www.sfu.ca,0.84,9,0,9,0,0.284363394,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.84,29,0,29,0,0.266525555,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.84,49,0,49,0,0.266912641,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.84,69,0,69,0,0.265498396,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.84,89,0,89,0,0.292931073,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.84,109,1,108,0.009174312,0.264572449,48.32971802,
+www.sfu.ca,0.84,129,1,128,0.007751938,0.269483638,51.61882131,
+www.sfu.ca,0.84,149,1,148,0.006711409,0.269206135,55.53334199,
+www.sfu.ca,0.85,9,0,9,0,0.286053159,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.85,29,0,29,0,0.266478811,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.85,49,0,49,0,0.266649256,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.85,69,0,69,0,0.265821809,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.85,89,0,89,0,0.293424817,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.85,109,1,108,0.009174312,0.264911348,48.26789027,
+www.sfu.ca,0.85,129,1,128,0.007751938,0.269357432,51.64300705,
+www.sfu.ca,0.85,149,1,148,0.006711409,0.269240722,55.52620821,
+www.sfu.ca,0.86,9,0,9,0,0.287854722,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.86,29,0,29,0,0.266512881,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.86,49,0,49,0,0.266388528,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.86,69,0,69,0,0.266136408,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.86,89,0,89,0,0.293778745,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.86,109,1,108,0.009174312,0.265309915,48.19537876,
+www.sfu.ca,0.86,129,1,128,0.007751938,0.269217357,51.66987704,
+www.sfu.ca,0.86,149,1,148,0.006711409,0.269286657,55.51673646,
+www.sfu.ca,0.87,9,0,9,0,0.28977551,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.87,29,0,29,0,0.266657721,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.87,49,0,49,0,0.266138077,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.87,69,0,69,0,0.266437651,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.87,89,0,89,0,0.293972004,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.87,109,1,108,0.009174312,0.265778909,48.11033319,
+www.sfu.ca,0.87,129,1,128,0.007751938,0.2690677,51.69861623,
+www.sfu.ca,0.87,149,1,148,0.006711409,0.2693432,55.5050819,
+www.sfu.ca,0.88,9,0,9,0,0.291823382,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.88,29,0,29,0,0.266952442,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.88,49,0,49,0,0.265910216,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.88,69,0,69,0,0.266720679,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.88,89,0,89,0,0.293981899,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.88,109,1,108,0.009174312,0.266328818,48.01099611,
+www.sfu.ca,0.88,129,1,128,0.007751938,0.268915465,51.72788308,
+www.sfu.ca,0.88,149,1,148,0.006711409,0.269408968,55.49153207,
+www.sfu.ca,0.89,9,0,9,0,0.294006649,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.89,29,0,29,0,0.267447982,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.89,49,0,49,0,0.26572495,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.89,69,0,69,0,0.266981104,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.89,89,0,89,0,0.293783728,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.89,109,1,108,0.009174312,0.266968702,47.89592091,
+www.sfu.ca,0.89,129,1,128,0.007751938,0.26877137,51.75561576,
+www.sfu.ca,0.89,149,1,148,0.006711409,0.269482088,55.47647517,
+www.sfu.ca,0.9,9,0,9,0,0.296334094,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.9,29,0,29,0,0.268210537,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.9,49,0,49,0,0.265614801,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.9,69,0,69,0,0.267216874,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.9,89,0,89,0,0.29335076,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.9,109,1,108,0.009174312,0.267704412,47.76429253,
+www.sfu.ca,0.9,129,1,128,0.007751938,0.268650957,51.77881326,
+www.sfu.ca,0.9,149,1,148,0.006711409,0.269560681,55.46030047,
+www.sfu.ca,0.91,9,0,9,0,0.298814995,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.91,29,0,29,0,0.269325956,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.91,49,0,49,0,0.265632583,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.91,69,0,69,0,0.267432323,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.91,89,0,89,0,0.29265482,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.91,109,1,108,0.009174312,0.268536062,47.61636771,
+www.sfu.ca,0.91,129,1,128,0.007751938,0.268575666,51.79332862,
+www.sfu.ca,0.91,149,1,148,0.006711409,0.269643894,55.44318538,
+www.sfu.ca,0.92,9,0,9,0,0.301459147,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.92,29,0,29,0,0.270905346,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.92,49,0,49,0,0.265863798,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.92,69,0,69,0,0.267646633,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.92,89,0,89,0,0.291668712,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.92,109,1,108,0.009174312,0.269454852,47.45400488,
+www.sfu.ca,0.92,129,1,128,0.007751938,0.268573502,51.79374599,
+www.sfu.ca,0.92,149,1,148,0.006711409,0.269733767,55.42471207,
+www.sfu.ca,0.93,9,0,9,0,0.304276887,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.93,29,0,29,0,0.273092236,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.93,49,0,49,0,0.266446344,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.93,69,0,69,0,0.267911032,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.93,89,0,89,0,0.290373703,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.93,109,1,108,0.009174312,0.27044036,47.28107833,
+www.sfu.ca,0.93,129,1,128,0.007751938,0.268678921,51.77342415,
+www.sfu.ca,0.93,149,1,148,0.006711409,0.269838246,55.40325212,
+www.sfu.ca,0.94,9,0,9,0,0.307279117,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.94,29,0,29,0,0.276071675,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.94,49,0,49,0,0.267601659,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.94,69,0,69,0,0.268343161,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.94,89,0,89,0,0.288780128,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.94,109,1,108,0.009174312,0.271462814,47.10299597,
+www.sfu.ca,0.94,129,1,128,0.007751938,0.268932565,51.72459401,
+www.sfu.ca,0.94,149,1,148,0.006711409,0.269975875,55.3750085,
+www.sfu.ca,0.95,9,0,9,0,0.310477327,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.95,29,0,29,0,0.280081805,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.95,49,0,49,0,0.26968369,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.95,69,0,69,0,0.269194787,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.95,89,0,89,0,0.286980837,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.95,109,1,108,0.009174312,0.272505529,46.92276116,
+www.sfu.ca,0.95,129,1,128,0.007751938,0.269387437,51.63725487,
+www.sfu.ca,0.95,149,1,148,0.006711409,0.270185234,55.33210004,
+www.sfu.ca,0.96,9,0,9,0,0.313883627,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.96,29,0,29,0,0.285428517,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.96,49,0,49,0,0.273255552,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.96,69,0,69,0,0.270983837,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.96,89,0,89,0,0.28528479,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.96,109,1,108,0.009174312,0.273654641,46.72572632,
+www.sfu.ca,0.96,129,1,128,0.007751938,0.270153867,51.49075928,
+www.sfu.ca,0.96,149,1,148,0.006711409,0.270558139,55.25583677,
+www.sfu.ca,0.97,9,0,9,0,0.317510767,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.97,29,0,29,0,0.292503996,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.97,49,0,49,0,0.27920896,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.97,69,0,69,0,0.274749475,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.97,89,0,89,0,0.284542791,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.97,109,1,108,0.009174312,0.275396519,46.43018686,
+www.sfu.ca,0.97,129,1,128,0.007751938,0.271615003,51.21376801,
+www.sfu.ca,0.97,149,1,148,0.006711409,0.271399662,55.08450638,
+www.sfu.ca,0.98,9,0,9,0,0.321372168,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.98,29,0,29,0,0.30181013,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.98,49,0,49,0,0.288949505,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.98,69,0,69,0,0.282540939,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.98,89,0,89,0,0.286927163,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.98,109,1,108,0.009174312,0.279529939,45.74362192,
+www.sfu.ca,0.98,129,1,128,0.007751938,0.275307405,50.52689276,
+www.sfu.ca,0.98,149,1,148,0.006711409,0.274016393,54.55847447,
+www.sfu.ca,0.99,9,0,9,0,0.325481951,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.99,29,0,29,0,0.313988001,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.99,49,0,49,0,0.304682845,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.99,69,0,69,0,0.298347439,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.99,89,0,89,0,0.297771027,No se han perdido paquetes, no se puede calcular el throughput
+www.sfu.ca,0.99,109,1,108,0.009174312,0.291851025,43.81246164,
+www.sfu.ca,0.99,129,1,128,0.007751938,0.287241966,48.42756073,
+www.sfu.ca,0.99,149,1,148,0.006711409,0.284415155,52.5637123,
