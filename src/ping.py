@@ -1,5 +1,6 @@
 import sys
 from datetime import datetime, timedelta
+import math
 from random import randint
 from scapy.all import *
 import numpy
@@ -19,7 +20,7 @@ class Ping:
             packet = IP(dst=self.ip) / ICMP(id=self.icmp_id, seq=i)
             response = sr1(packet, timeout = self.timeout, verbose=False)
 
-            print 'Ping: ' + str(i)
+            #print 'Ping: ' + str(i)
 
             if response is None:
                 statistics.ping_failed()
@@ -38,6 +39,7 @@ class Statistics:
         self.failed_count = 0
         self.succeeded_count = 0
         self.ertt = -1
+        self.two_thirds = 2.0/3.0
 
     def ping_failed(self):
         self.failed_count += 1
@@ -48,7 +50,7 @@ class Statistics:
 
     def update_ertt(self, ellapsed):
         if self.succeeded_count > 1:
-            self.ertt = self.alpha * self.ertt + (1 - self.alpha) * ellapsed
+            self.ertt = self.alpha * self.ertt + (1.0 - self.alpha) * ellapsed
         else:
             self.ertt = ellapsed
 
@@ -58,14 +60,19 @@ class Statistics:
     def total(self):
         return self.succeeded_count + self.failed_count
 
+    def throughtput(self):
+        den = self.ertt * math.sqrt(self.two_thirds * self.loss_probability()) 
+        return 1.0/den
+
     def output(self):
         print 'ip: ' + str(self.ip)
         print '\talpha: ' + str(self.alpha) + '\ttotal: '  + str(self.total())
         print '\tfailed: ' + str(self.failed_count) + '\tsucceeded: ' + str(self.succeeded_count) + '\tlossProbability ' + str(self.loss_probability())
         print '\testimated rtt: ' + str(self.ertt)
+        print '\tthroughput: ' + str(self.throughtput())
 
 if (len(sys.argv) < 4):
-    print 'Usage: python ej3.py [ip] [alpha] [count] [timeout]'
+    print 'Usage: python ping.py [ip] [alpha] [count] [timeout]'
 else:
     ip_dst = (sys.argv[1])
     alpha = float(sys.argv[2])
