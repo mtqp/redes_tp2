@@ -1,0 +1,161 @@
+ip,alpha,total,failed,succeeded,lossProbability,ertt,throughput
+www.ru.ac.za,0.8,9,0,9,0.0,0.491258495692,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.8,29,0,29,0.0,0.491952102376,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.8,49,0,49,0.0,0.487266643339,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.8,69,0,69,0.0,0.491353875209,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.8,89,0,89,0.0,0.528951061778,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.8,109,9,100,0.0825688073394,0.498065670368,8.55758093313
+www.ru.ac.za,0.8,129,22,107,0.170542635659,0.503248742626,5.89313575667
+www.ru.ac.za,0.8,149,35,114,0.234899328859,0.486802346989,5.19101254177
+www.ru.ac.za,0.81,9,0,9,0.0,0.491765840687,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.81,29,0,29,0.0,0.491989597079,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.81,49,0,49,0.0,0.487074949419,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.81,69,0,69,0.0,0.491326338697,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.81,89,0,89,0.0,0.529218829122,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.81,109,9,100,0.0825688073394,0.498747451185,8.5458828392
+www.ru.ac.za,0.81,129,22,107,0.170542635659,0.503607750477,5.88893470537
+www.ru.ac.za,0.81,149,35,114,0.234899328859,0.487445857346,5.18415953383
+www.ru.ac.za,0.82,9,0,9,0.0,0.492331136863,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.82,29,0,29,0.0,0.492026378507,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.82,49,0,49,0.0,0.486890797262,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.82,69,0,69,0.0,0.491276627914,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.82,89,0,89,0.0,0.529435672921,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.82,109,9,100,0.0825688073394,0.499487784273,8.53321626351
+www.ru.ac.za,0.82,129,22,107,0.170542635659,0.503978583362,5.88460156359
+www.ru.ac.za,0.82,149,35,114,0.234899328859,0.488130818828,5.17688494787
+www.ru.ac.za,0.83,9,0,9,0.0,0.492957954593,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.83,29,0,29,0.0,0.492063948764,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.83,49,0,49,0.0,0.486716277494,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.83,69,0,69,0.0,0.491203857622,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.83,89,0,89,0.0,0.529590725104,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.83,109,9,100,0.0825688073394,0.500288401056,8.51956046789
+www.ru.ac.za,0.83,129,22,107,0.170542635659,0.504366402614,5.88007675432
+www.ru.ac.za,0.83,149,35,114,0.234899328859,0.488861681621,5.1691453505
+www.ru.ac.za,0.84,9,0,9,0.0,0.493650069004,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.84,29,0,29,0.0,0.492104948193,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.84,49,0,49,0.0,0.486554005289,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.84,69,0,69,0.0,0.491107162882,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.84,89,0,89,0.0,0.529670776818,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.84,109,9,100,0.0825688073394,0.501149855373,8.50491572229
+www.ru.ac.za,0.84,129,22,107,0.170542635659,0.504776906779,5.87529484778
+www.ru.ac.za,0.84,149,35,114,0.234899328859,0.489643808652,5.1608884743
+www.ru.ac.za,0.85,9,0,9,0.0,0.494411470087,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.85,29,0,29,0.0,0.49215359288,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.85,49,0,49,0.0,0.48640731839,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.85,69,0,69,0.0,0.490985751017,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.85,89,0,89,0.0,0.529659751335,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.85,109,9,100,0.0825688073394,0.502070888608,8.4893137222
+www.ru.ac.za,0.85,129,22,107,0.170542635659,0.505216079418,5.87018759001
+www.ru.ac.za,0.85,149,35,114,0.234899328859,0.490483574371,5.15205242464
+www.ru.ac.za,0.86,9,0,9,0.0,0.495246373197,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.86,29,0,29,0.0,0.49221625496,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.86,49,0,49,0.0,0.486280580431,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.86,69,0,69,0.0,0.490838999597,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.86,89,0,89,0.0,0.529538068286,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.86,109,9,100,0.0825688073394,0.503047543641,8.4728319183
+www.ru.ac.za,0.86,129,22,107,0.170542635659,0.505689721078,5.86468942527
+www.ru.ac.za,0.86,149,35,114,0.234899328859,0.491388374356,5.14256588161
+www.ru.ac.za,0.87,9,0,9,0.0,0.496159229951,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.87,29,0,29,0.0,0.492302228564,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.87,49,0,49,0.0,0.486179656688,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.87,69,0,69,0.0,0.490666638733,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.87,89,0,89,0.0,0.529281885025,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.87,109,9,100,0.0825688073394,0.50407193894,8.45561308797
+www.ru.ac.za,0.87,129,22,107,0.170542635659,0.506202649976,5.85874680785
+www.ru.ac.za,0.87,149,35,114,0.234899328859,0.492366450535,5.13235027658
+www.ru.ac.za,0.88,9,0,9,0.0,0.497154739544,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.88,29,0,29,0.0,0.492424736214,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.88,49,0,49,0.0,0.486112673195,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.88,69,0,69,0.0,0.490469089315,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.88,89,0,89,0.0,0.528862209337,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.88,109,9,100,0.0825688073394,0.505130588195,8.4378918715
+www.ru.ac.za,0.88,129,22,107,0.170542635659,0.506757403778,5.8523331629
+www.ru.ac.za,0.88,149,35,114,0.234899328859,0.493426372377,5.12132555139
+www.ru.ac.za,0.89,9,0,9,0.0,0.498237860482,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.89,29,0,29,0.0,0.492602245639,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.89,49,0,49,0.0,0.486091241343,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.89,69,0,69,0.0,0.490248093241,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.89,89,0,89,0.0,0.528243903078,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.89,109,9,100,0.0825688073394,0.506202124296,8.42003041791
+www.ru.ac.za,0.89,129,22,107,0.170542635659,0.507352204297,5.84547210903
+www.ru.ac.za,0.89,149,35,114,0.234899328859,0.494575914496,5.10942206144
+www.ru.ac.za,0.9,9,0,9,0.0,0.499413822752,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.9,29,0,29,0.0,0.492860186048,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.9,49,0,49,0.0,0.486132444821,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.9,69,0,69,0.0,0.490007897125,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.9,89,0,89,0.0,0.527384662279,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.9,109,9,100,0.0825688073394,0.507254272631,8.40256556554
+www.ru.ac.za,0.9,129,22,107,0.170542635659,0.507977859954,5.83827247893
+www.ru.ac.za,0.9,149,35,114,0.234899328859,0.495819922392,5.09660256569
+www.ru.ac.za,0.91,9,0,9,0.0,0.500688140434,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.91,29,0,29,0.0,0.493233176882,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.91,49,0,49,0.0,0.486262069447,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.91,69,0,69,0.0,0.48975749642,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.91,89,0,89,0.0,0.52623422252,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.91,109,9,100,0.0825688073394,0.508239957163,8.38626956443
+www.ru.ac.za,0.91,129,22,107,0.170542635659,0.508613197258,5.83097956494
+www.ru.ac.za,0.91,149,35,114,0.234899328859,0.497156553474,5.08290008636
+www.ru.ac.za,0.92,9,0,9,0.0,0.502066624771,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.92,29,0,29,0.0,0.493767912053,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.92,49,0,49,0.0,0.486519848307,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.92,69,0,69,0.0,0.489514927455,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.92,89,0,89,0.0,0.524734433751,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.92,109,9,100,0.0825688073394,0.509092624827,8.37222359218
+www.ru.ac.za,0.92,129,22,107,0.170542635659,0.509218611485,5.82404706502
+www.ru.ac.za,0.92,149,35,114,0.234899328859,0.498571050617,5.06847937813
+www.ru.ac.za,0.93,9,0,9,0.0,0.503555397702,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.93,29,0,29,0.0,0.494526880192,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.93,49,0,49,0.0,0.486967955345,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.93,69,0,69,0.0,0.489315534232,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.93,89,0,89,0.0,0.522821796715,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.93,109,9,100,0.0825688073394,0.509721542235,8.36189356545
+www.ru.ac.za,0.93,129,22,107,0.170542635659,0.509727663093,5.81823074242
+www.ru.ac.za,0.93,149,35,114,0.234899328859,0.500026122667,5.05373014335
+www.ru.ac.za,0.94,9,0,9,0.0,0.505160905877,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.94,29,0,29,0.0,0.495593148189,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.94,49,0,49,0.0,0.487704703183,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.94,69,0,69,0.0,0.489227965867,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.94,89,0,89,0.0,0.520436313715,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.94,109,9,100,0.0825688073394,0.510009765218,8.35716798944
+www.ru.ac.za,0.94,129,22,107,0.170542635659,0.510038088152,5.81468958606
+www.ru.ac.za,0.94,149,35,114,0.234899328859,0.501448717078,5.03939286815
+www.ru.ac.za,0.95,9,0,9,0.0,0.50688993515,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.95,29,0,29,0.0,0.497076493372,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.95,49,0,49,0.0,0.488886527584,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.95,69,0,69,0.0,0.489385204189,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.95,89,0,89,0.0,0.517545873153,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.95,109,9,100,0.0825688073394,0.509822861873,8.36023176466
+www.ru.ac.za,0.95,129,22,107,0.170542635659,0.510008373543,5.81502836722
+www.ru.ac.za,0.95,149,35,114,0.234899328859,0.502716623011,5.02668297191
+www.ru.ac.za,0.96,9,0,9,0.0,0.508749625588,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.96,29,0,29,0.0,0.499121241839,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.96,49,0,49,0.0,0.49076308738,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.96,69,0,69,0.0,0.490044745679,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.96,89,0,89,0.0,0.514208067724,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.96,109,9,100,0.0825688073394,0.509050960032,8.37290884181
+www.ru.ac.za,0.96,129,22,107,0.170542635659,0.509480558766,5.82105265578
+www.ru.ac.za,0.96,149,35,114,0.234899328859,0.503661719434,5.01725064876
+www.ru.ac.za,0.97,9,0,9,0.0,0.510747486979,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.97,29,0,29,0.0,0.501916259604,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.97,49,0,49,0.0,0.49373300092,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.97,69,0,69,0.0,0.491705120719,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.97,89,0,89,0.0,0.510721142743,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.97,109,9,100,0.0825688073394,0.507745124477,8.39444256323
+www.ru.ac.za,0.97,129,22,107,0.170542635659,0.508392187358,5.83351442729
+www.ru.ac.za,0.97,149,35,114,0.234899328859,0.504150605781,5.01238530631
+www.ru.ac.za,0.98,9,0,9,0.0,0.512891414868,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.98,29,0,29,0.0,0.505707653447,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.98,49,0,49,0.0,0.498431868807,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.98,69,0,69,0.0,0.49533075242,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.98,89,0,89,0.0,0.50798534611,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.98,109,9,100,0.0825688073394,0.506509896635,8.41491412605
+www.ru.ac.za,0.98,129,22,107,0.170542635659,0.507160654057,5.84767989383
+www.ru.ac.za,0.98,149,35,114,0.234899328859,0.504440677776,5.00950299989
+www.ru.ac.za,0.99,9,0,9,0.0,0.51518970713,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.99,29,0,29,0.0,0.510814874072,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.99,49,0,49,0.0,0.505870532192,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.99,69,0,69,0.0,0.502784004183,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.99,89,0,89,0.0,0.50835727534,No se han perdido paquetes, no se puede calcular el throughput
+www.ru.ac.za,0.99,109,9,100,0.0825688073394,0.5075758639,8.39724184564
+www.ru.ac.za,0.99,129,22,107,0.170542635659,0.507860672564,5.83961964351
+www.ru.ac.za,0.99,149,35,114,0.234899328859,0.506427695305,4.98984773545

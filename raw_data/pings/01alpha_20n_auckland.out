@@ -1,0 +1,161 @@
+ip,alpha,total,failed,succeeded,lossProbability,ertt,throughput
+www.auckland.ac.nz,0.8,9,0,9,0.0,0.338031666461,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.8,29,0,29,0.0,0.335725614764,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.8,49,0,49,0.0,0.339326813102,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.8,69,4,65,0.0579710144928,0.341645587708,14.8889599935
+www.auckland.ac.nz,0.8,89,13,76,0.14606741573,0.32866490288,9.75024721178
+www.auckland.ac.nz,0.8,109,28,81,0.256880733945,0.328958364198,7.3457971173
+www.auckland.ac.nz,0.8,129,43,86,0.333333333333,0.346455310972,6.12292632376
+www.auckland.ac.nz,0.8,149,58,91,0.389261744966,0.339033507702,5.79004773224
+www.auckland.ac.nz,0.81,9,0,9,0.0,0.338569922186,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.81,29,0,29,0.0,0.335777882978,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.81,49,0,49,0.0,0.339196588544,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.81,69,4,65,0.0579710144928,0.341796772047,14.8823742743
+www.auckland.ac.nz,0.81,89,13,76,0.14606741573,0.328985409044,9.74074826669
+www.auckland.ac.nz,0.81,109,28,81,0.256880733945,0.329077839265,7.3431301507
+www.auckland.ac.nz,0.81,129,43,86,0.333333333333,0.345891914727,6.13289947883
+www.auckland.ac.nz,0.81,149,58,91,0.389261744966,0.338996470063,5.7906803338
+www.auckland.ac.nz,0.82,9,0,9,0.0,0.339153578765,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.82,29,0,29,0.0,0.335830487514,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.82,49,0,49,0.0,0.339067030941,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.82,69,4,65,0.0579710144928,0.341924297985,14.8768236634
+www.auckland.ac.nz,0.82,89,13,76,0.14606741573,0.329330398788,9.73054435517
+www.auckland.ac.nz,0.82,109,28,81,0.256880733945,0.329218542698,7.33999179885
+www.auckland.ac.nz,0.82,129,43,86,0.333333333333,0.345315374048,6.14313900563
+www.auckland.ac.nz,0.82,149,58,91,0.389261744966,0.338946939526,5.79152652969
+www.auckland.ac.nz,0.83,9,0,9,0.0,0.339785982546,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.83,29,0,29,0.0,0.335886811843,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.83,49,0,49,0.0,0.338937685373,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.83,69,4,65,0.0579710144928,0.342026061462,14.8723973419
+www.auckland.ac.nz,0.83,89,13,76,0.14606741573,0.329700859535,9.71961085401
+www.auckland.ac.nz,0.83,109,28,81,0.256880733945,0.329383554727,7.33631466645
+www.auckland.ac.nz,0.83,129,43,86,0.333333333333,0.344728442452,6.15359825975
+www.auckland.ac.nz,0.83,149,58,91,0.389261744966,0.338883964043,5.79260278062
+www.auckland.ac.nz,0.84,9,0,9,0.0,0.340470675603,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.84,29,0,29,0.0,0.33595146684,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.84,49,0,49,0.0,0.338808190988,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.84,69,4,65,0.0579710144928,0.342099796264,14.8691918057
+www.auckland.ac.nz,0.84,89,13,76,0.14606741573,0.330097554338,9.70793030969
+www.auckland.ac.nz,0.84,109,28,81,0.256880733945,0.329576180052,7.33202685658
+www.auckland.ac.nz,0.84,129,43,86,0.333333333333,0.344134427014,6.16422007519
+www.auckland.ac.nz,0.84,149,58,91,0.389261744966,0.338806931117,5.79391981725
+www.auckland.ac.nz,0.85,9,0,9,0.0,0.341211404483,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.85,29,0,29,0.0,0.336030682733,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.85,49,0,49,0.0,0.338678421706,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.85,69,4,65,0.0579710144928,0.342143068974,14.8673112175
+www.auckland.ac.nz,0.85,89,13,76,0.14606741573,0.330520926863,9.69549517887
+www.auckland.ac.nz,0.85,109,28,81,0.256880733945,0.329799900715,7.32705315617
+www.auckland.ac.nz,0.85,129,43,86,0.333333333333,0.343537242013,6.17493559397
+www.auckland.ac.nz,0.85,149,58,91,0.389261744966,0.338715686805,5.79548060186
+www.auckland.ac.nz,0.86,9,0,9,0.0,0.34201212923,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.86,29,0,29,0.0,0.336132824272,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.86,49,0,49,0.0,0.338548728294,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.86,69,4,65,0.0579710144928,0.342153294951,14.8668668763
+www.auckland.ac.nz,0.86,89,13,76,0.14606741573,0.330970986832,9.68231107986
+www.auckland.ac.nz,0.86,109,28,81,0.256880733945,0.330058301644,7.32131684433
+www.auckland.ac.nz,0.86,129,43,86,0.333333333333,0.342941449275,6.18566331963
+www.auckland.ac.nz,0.86,149,58,91,0.389261744966,0.338610669368,5.7972780246
+www.auckland.ac.nz,0.87,9,0,9,0.0,0.342877032708,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.87,29,0,29,0.0,0.336269066268,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.87,49,0,49,0.0,0.33842034835,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.87,69,4,65,0.0579710144928,0.342127804385,14.8679745468
+www.auckland.ac.nz,0.87,89,13,76,0.14606741573,0.331447181411,9.6684003746
+www.auckland.ac.nz,0.87,109,28,81,0.256880733945,0.330354964948,7.31474220106
+www.auckland.ac.nz,0.87,129,43,86,0.333333333333,0.342352277092,6.19630855555
+www.auckland.ac.nz,0.87,149,58,91,0.389261744966,0.338493053325,5.79929240244
+www.auckland.ac.nz,0.88,9,0,9,0.0,0.343810530207,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.88,29,0,29,0.0,0.336454277201,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.88,49,0,49,0.0,0.338296092509,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.88,69,4,65,0.0579710144928,0.342064018331,14.8707470378
+www.auckland.ac.nz,0.88,89,13,76,0.14606741573,0.33194827344,9.65380545501
+www.auckland.ac.nz,0.88,109,28,81,0.256880733945,0.330693337454,7.30725760016
+www.auckland.ac.nz,0.88,129,43,86,0.333333333333,0.341775612036,6.20676335249
+www.auckland.ac.nz,0.88,149,58,91,0.389261744966,0.338364898669,5.80148886644
+www.auckland.ac.nz,0.89,9,0,9,0.0,0.344817279349,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.89,29,0,29,0.0,0.336708171989,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.89,49,0,49,0.0,0.33818148201,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.89,69,4,65,0.0579710144928,0.341959855253,14.875276759
+www.auckland.ac.nz,0.89,89,13,76,0.14606741573,0.332472284208,9.63859005737
+www.auckland.ac.nz,0.89,109,28,81,0.256880733945,0.331076600833,7.29879851778
+www.auckland.ac.nz,0.89,129,43,86,0.333333333333,0.341217971571,6.21690684636
+www.auckland.ac.nz,0.89,149,58,91,0.389261744966,0.338229305596,5.80381463091
+www.auckland.ac.nz,0.9,9,0,9,0.0,0.345902190307,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.9,29,0,29,0.0,0.337056811824,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.9,49,0,49,0.0,0.338086619326,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.9,69,4,65,0.0579710144928,0.341814606031,14.8815977948
+www.auckland.ac.nz,0.9,89,13,76,0.14606741573,0.333016642778,9.6228345412
+www.auckland.ac.nz,0.9,109,28,81,0.256880733945,0.331507638135,7.2893083762
+www.auckland.ac.nz,0.9,129,43,86,0.333333333333,0.340686509668,6.22660505585
+www.auckland.ac.nz,0.9,149,58,91,0.389261744966,0.338090602251,5.80619567463
+www.auckland.ac.nz,0.91,9,0,9,0.0,0.347070436332,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.91,29,0,29,0.0,0.337534550264,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.91,49,0,49,0.0,0.338029242206,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.91,69,4,65,0.0579710144928,0.341630740518,14.8896070641
+www.auckland.ac.nz,0.91,89,13,76,0.14606741573,0.333578871667,9.60661578145
+www.auckland.ac.nz,0.91,109,28,81,0.256880733945,0.331989348121,7.27873173375
+www.auckland.ac.nz,0.91,129,43,86,0.333333333333,0.340189230866,6.23570692747
+www.auckland.ac.nz,0.91,149,58,91,0.389261744966,0.337954683206,5.8085308178
+www.auckland.ac.nz,0.92,9,0,9,0.0,0.348327464589,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.92,29,0,29,0.0,0.338186551352,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.92,49,0,49,0.0,0.338039677421,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.92,69,4,65,0.0579710144928,0.341417536034,14.8989051542
+www.auckland.ac.nz,0.92,89,13,76,0.14606741573,0.334158548741,9.58995083318
+www.auckland.ac.nz,0.92,109,28,81,0.256880733945,0.332525930023,7.26698637687
+www.auckland.ac.nz,0.92,129,43,86,0.333333333333,0.339735907095,6.24402749094
+www.auckland.ac.nz,0.92,149,58,91,0.389261744966,0.337829877096,5.81067669118
+www.auckland.ac.nz,0.93,9,0,9,0.0,0.349679007332,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.93,29,0,29,0.0,0.339072038892,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.93,49,0,49,0.0,0.338168827258,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.93,69,4,65,0.0579710144928,0.341198222387,14.9084817962
+www.auckland.ac.nz,0.93,89,13,76,0.14606741573,0.334762166853,9.57265895079
+www.auckland.ac.nz,0.93,109,28,81,0.256880733945,0.333126615163,7.25388273841
+www.auckland.ac.nz,0.93,129,43,86,0.333333333333,0.339340982965,6.25129427346
+www.auckland.ac.nz,0.93,149,58,91,0.389261744966,0.337729426294,5.8124049597
+www.auckland.ac.nz,0.94,9,0,9,0.0,0.351131093401,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.94,29,0,29,0.0,0.340268477597,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.94,49,0,49,0.0,0.33850097211,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.94,69,4,65,0.0579710144928,0.341023839359,14.9161052697
+www.auckland.ac.nz,0.94,89,13,76,0.14606741573,0.335414384306,9.55404479611
+www.auckland.ac.nz,0.94,109,28,81,0.256880733945,0.333815250523,7.23891853246
+www.auckland.ac.nz,0.94,129,43,86,0.333333333333,0.339031666645,6.25699765616
+www.auckland.ac.nz,0.94,149,58,91,0.389261744966,0.33767848975,5.81328172214
+www.auckland.ac.nz,0.95,9,0,9,0.0,0.352690060052,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.95,29,0,29,0.0,0.341876938614,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.95,49,0,49,0.0,0.33917418188,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.95,69,4,65,0.0579710144928,0.340999784478,14.9171574848
+www.auckland.ac.nz,0.95,89,13,76,0.14606741573,0.336183088415,9.53219886231
+www.auckland.ac.nz,0.95,109,28,81,0.256880733945,0.334653434664,7.22078769596
+www.auckland.ac.nz,0.95,129,43,86,0.333333333333,0.338868930934,6.26000246678
+www.auckland.ac.nz,0.95,149,58,91,0.389261744966,0.337733198551,5.81234003896
+www.auckland.ac.nz,0.96,9,0,9,0.0,0.354362565138,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.96,29,0,29,0.0,0.344028966232,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.96,49,0,49,0.0,0.340412688545,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.96,69,4,65,0.0579710144928,0.34133614695,14.9024576881
+www.auckland.ac.nz,0.96,89,13,76,0.14606741573,0.337233862484,9.50249784915
+www.auckland.ac.nz,0.96,109,28,81,0.256880733945,0.335794357544,7.19625374622
+www.auckland.ac.nz,0.96,129,43,86,0.333333333333,0.338999709863,6.25758749002
+www.auckland.ac.nz,0.96,149,58,91,0.389261744966,0.338030732784,5.80722402444
+www.auckland.ac.nz,0.97,9,0,9,0.0,0.356155599636,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.97,29,0,29,0.0,0.346895342205,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.97,49,0,49,0.0,0.34257797041,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.97,69,4,65,0.0579710144928,0.342442275157,14.8543210239
+www.auckland.ac.nz,0.97,89,13,76,0.14606741573,0.338946272629,9.45448972801
+www.auckland.ac.nz,0.97,109,28,81,0.256880733945,0.337605072612,7.15765727314
+www.auckland.ac.nz,0.97,129,43,86,0.333333333333,0.339782897102,6.24316397809
+www.auckland.ac.nz,0.97,149,58,91,0.389261744966,0.338917281394,5.79203333731
+www.auckland.ac.nz,0.98,9,0,9,0.0,0.35807650053,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.98,29,0,29,0.0,0.350697242583,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.98,49,0,49,0.0,0.346248969684,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.98,69,4,65,0.0579710144928,0.345102999695,14.739795052
+www.auckland.ac.nz,0.98,89,13,76,0.14606741573,0.342158759449,9.36572267819
+www.auckland.ac.nz,0.98,109,28,81,0.256880733945,0.340939297077,7.0876587831
+www.auckland.ac.nz,0.98,129,43,86,0.333333333333,0.342087138719,6.20111107218
+www.auckland.ac.nz,0.98,149,58,91,0.389261744966,0.341267874631,5.75213882803
+www.auckland.ac.nz,0.99,9,0,9,0.0,0.360132964054,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.99,29,0,29,0.0,0.35572040321,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.99,49,0,49,0.0,0.352347459003,No se han perdido paquetes, no se puede calcular el throughput
+www.auckland.ac.nz,0.99,69,4,65,0.0579710144928,0.35080454823,14.5002324315
+www.auckland.ac.nz,0.99,89,13,76,0.14606741573,0.348678555732,9.19059689859
+www.auckland.ac.nz,0.99,109,28,81,0.256880733945,0.34773764375,6.94909351019
+www.auckland.ac.nz,0.99,129,43,86,0.333333333333,0.347983269478,6.09604118825
+www.auckland.ac.nz,0.99,149,58,91,0.389261744966,0.347271775196,5.65269144409
