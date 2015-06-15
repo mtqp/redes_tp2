@@ -1,7 +1,7 @@
 echo 'SFU'
-python trace_route.py www.sfu.ca 60 10 >> sfu_t10_p2
-python trace_route.py www.sfu.ca 60 10 >> sfu_t10_p3
-python trace_route.py www.sfu.ca 60 10 >> sfu_t10_p4
+python trace_route.py www.auckland.ac.nz 60 10 >> auckland_t10_p2
+python trace_route.py www.auckland.ac.nz 60 10 >> auckland_t10_p3
+python trace_route.py www.auckland.ac.nz 60 10 >> auckland_t10_p4
 
 
 #echo 'Auckland'
