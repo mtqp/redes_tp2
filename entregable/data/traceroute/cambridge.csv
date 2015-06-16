@@ -1,0 +1,22 @@
+TTL,IP(1),AVG (1),ZRTT (1),IP(2),AVG (2),ZRTT (2),IP(3),AVG (3),ZRTT (3),IP(4),AVG (4),ZRTT (4),Locacion,Router,Empresa
+1,192.168.1.1,0.00692,-0.12492,192.168.1.1,0.01877,0.06765,192.168.1.1,0.00698,-0.12808,192.168.1.1,0.00698,-0.12808,Buenos Aires Argentina ,,
+2,181.167.118.1,0.01863,0.05595,181.167.118.1,0.02020,0.09953,181.167.118.1,0.02108,0.05672,181.167.118.1,0.02108,0.05672,Buenos Aires Argentina,1-118-167-181.fibertel.com.ar,Cablevision SA
+3,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,,,
+4,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,,,
+5,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,,,
+6,200.89.165.237,0.01561,0.00919,200.89.165.237,-0.01578,-0.70510,200.89.165.237,0.00736,-0.12300,200.89.165.237,0.00736,-0.12300,Buenos Aires Argentina,237-165-89-200.fibertel.com.ar,Cablevision SA
+7,200.89.165.222,-0.00775,-0.35157,200.89.165.222,0.00110,-0.32754,200.89.165.222,0.00622,-0.13797,200.89.165.222,0.00622,-0.13797,Buenos Aires Argentina,222-165-89-200.fibertel.com.ar,Cablevision SA
+8,208.178.244.213,-0.00394,-0.29270,208.178.244.213,-0.00086,-0.37147,208.178.244.213,-0.01337,-0.39465,208.178.244.213,-0.01337,-0.39465,Ventura Califonia EEUU,xe-1-2-2.ar3.eze1.gblx.net,Global Crossing
+9,67.17.68.234,0.13359,1.83162,67.17.68.234,0.15604,3.13789,67.17.68.234,0.12541,1.42351,67.17.68.234,0.12541,1.42351,Broomfield Colorado EEUU,po2.ar3.MIA2.gblx.net,Global Crossing
+10,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,,,
+11,4.69.133.101,0.20944,3.00335,4.69.133.101,0.09954,1.87418,4.69.133.101,0.22497,2.72779,4.69.133.101,0.22497,2.72779,EEUU,ae-4-4.car1.Manchesteruk1.Level3.net,Level 3 Communications Inc. 
+12,4.69.133.101,-0.00252,-0.27075,4.69.133.101,-0.00713,-0.51170,4.69.133.101,0.04739,0.40134,4.69.133.101,0.04739,0.40134,EEUU,ae-4-4.car1.Manchesteruk1.Level3.net,Level 3 Communications Inc.
+13,195.50.119.98,-0.10355,-1.83135,195.50.119.98,0.00860,-0.15980,195.50.119.98,-0.16583,-2.39200,195.50.119.98,-0.16583,-2.39200,Manchester Manchester England,,Level 3 Communications
+14,146.97.33.41,-0.01849,-0.51746,146.97.33.41,-0.01267,-0.63572,146.97.33.41,0.00733,-0.12346,146.97.33.41,0.00733,-0.12346,London London England,ae29.erdiss-sbr1.ja.net,UK Academic Joint Network Team (NET-JANET-IP)
+15,146.97.33.26,0.00248,-0.19355,146.97.33.26,0.01371,-0.04559,146.97.33.26,0.01409,-0.03485,146.97.33.26,0.01409,-0.03485,London London England,ae30.lowdss-sbr1.ja.net,UK Academic Joint Network Team (NET-JANET-IP)
+16,146.97.37.186,0.02679,0.18190,146.97.37.186,-0.02350,-0.87778,146.97.37.186,-0.01553,-0.42295,146.97.37.186,-0.01553,-0.42295,London London England,ae0.camb-rbr2.ja.net,UK Academic Joint Network Team (NET-JANET-IP)
+17,146.97.130.2,-0.00182,-0.25995,146.97.130.2,0.02538,0.21547,146.97.130.2,0.01230,-0.05838,146.97.130.2,0.01230,-0.05838,Cambridge CambridgeShire England,University-of-Cambridge.Camb-rbr1.eastern.ja.net,UK Academic Joint Network Team (NET-JANET-IP)
+18,192.84.5.13,0.00996,-0.07797,192.84.5.13,0.00997,-0.12928,Desconocido,-,-,Desconocido,-,-,Cambridge CambridgeShire England, route-enetc.route-cent.net.cam.ac.uk,Medical Research Council
+19,192.84.5.58,-0.01325,-0.43653,192.84.5.58,-0.03349,-1.10132,192.84.5.58,-0.00926,-0.34073,192.84.5.58,-0.00926,-0.34073,Cambridge CambridgeShire England,route-cent.route-nwest.net.cam.ac.uk,Medical Research Council
+20,193.60.89.241,0.00632,-0.13427,193.60.89.241,0.00589,-0.22059,193.60.89.241,-0.00872,-0.33366,193.60.89.241,-0.00872,-0.33366,Cambridge CambridgeShire England,mint.admin.cam.ac.uk,Cambrige University UK
+21,131.111.150.25,-0.02325,-0.59099,131.111.150.25,0.00194,-0.30884,131.111.150.25,0.00762,-0.11965,131.111.150.25,0.00762,-0.11965,Cambridge CambridgeShire England,primary.admin.cam.ac.uk,Cambridge University local area network

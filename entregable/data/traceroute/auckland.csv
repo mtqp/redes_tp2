@@ -1,0 +1,25 @@
+TTL,IP (1),AVG (1),ZRTT (1),IP (2),AVG (2),ZRTT (2),IP (3),AVG (3),ZRTT (3),IP (4),AVG (4),ZRTT (4),Locacion,Router,Empresa
+1,192.168.1.1,0.00596,-0.34132,192.168.1.1,0.04895,0.67304,192.168.1.1,0.00734,-0.28880,192.168.1.1,0.00546,-0.30834,Buenos Aires Argentina ,-,-
+2,181.167.118.1,0.01838,-0.03091,181.167.118.1,0.00342,-0.33327,181.167.118.1,0.01937,-0.01163,Desconocido,-,-,Buenos Aires Argentina,1-118-167-181.fibertel.com.ar,Cablevision SA
+3,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+4,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+5,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+6,200.89.160.193,0.00573,-0.34705,200.89.160.193,-0.02275,-0.91184,200.89.160.193,0.01942,-0.01047,200.89.160.193,0.02517,0.10908,Buenos Aires  Argentina,193-160-89-200.fibertel.com.ar,Cablevision SA
+7,200.89.165.222,0.00855,-0.27649,200.89.165.222,0.00546,-0.28818,200.89.165.222,-0.01851,-0.88425,200.89.165.222,-0.00227,-0.47205,Buenos Aires  Argentina,222-165-89-200.fibertel.com.ar,Cablevision SA
+8,159.63.53.213,-0.01201,-0.79072,159.63.53.213,-0.01062,-0.64363,159.63.53.213,-0.00557,-0.58614,159.63.53.213,-0.00220,-0.47074,EEUU,xe-7-1-2.ar3.eze1.gblx.net,Global Crossing
+9,67.17.106.162,0.13134,2.79351,67.17.106.162,0.15366,2.98748,67.17.106.162,0.13389,2.62696,67.17.106.162,0.12590,2.24328,Broomfield  Colorado  EEUU,po2-30G.ar2.MIA2.gblx.net,Global Crossing
+10,64.212.107.98,0.01063,-0.22451,64.212.107.98,-0.01772,-0.80066,64.212.107.98,-0.00183,-0.49986,64.212.107.98,-0.00253,-0.47758,GreenBelt  Maryland  EEUU,185.PRSN - upto 20,-
+11,129.250.3.172,-0.00354,-0.57883,129.250.3.172,0.02055,0.04520,Desconocido,-,-,129.250.3.172,0.00822,-0.24997,Englewood Colorado EEUU,ae-4.r21.miamfl02.us.bb.gin.ntt.net,Verio Inc.
+12,129.250.2.219,0.02459,0.12437,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Englewood Colorado EEUU,ae-10.r20.dllstx09.us.bb.gin.ntt.net,Verio Inc.
+13,129.250.7.69,0.03804,0.46071,129.250.7.69,0.00988,-0.19053,Desconocido,-,-,Desconocido,-,-,Englewood Colorado EEUU,ae-3.r20.lsanca03.us.bb.gin.ntt.net,Verio Inc.
+14,129.250.2.230,0.02291,0.08249,129.250.2.230,0.01308,-0.11977,129.250.2.230,0.04039,0.47265,129.250.2.230,0.03972,0.41746,Englewood Colorado EEUU,ae-1.r05.lsanca03.us.bb.gin.ntt.net,Verio Inc.
+15,204.1.253.166,-0.00309,-0.56767,204.1.253.166,0.00332,-0.33564,204.1.253.166,0.00466,-0.35038,204.1.253.166,-0.00840,-0.60197,Los Angeles California EEUU,xe-0-0-0-16.r05.lsanca03.us.ce.gin.ntt.net,Levinson and Hill DSL Dallas 
+16,202.158.194.172,0.12958,2.74957,202.158.194.172,0.11386,2.10779,202.158.194.172,0.12477,2.41675,202.158.194.172,0.15315,2.82060,Sidney New South Wales Australia,xe-0-0-3.pe1.tkpa.akl.aarnet.net.au,Australian Academic and Research Network
+17,182.255.119.139,-0.01133,-0.77354,182.255.119.139,-0.00051,-0.42031,182.255.119.139,0.00184,-0.41551,182.255.119.139,-0.01577,-0.75825,Sidney New South Wales Australia,et-1-0-0-201.and12-nsh.reannz.co.nz,Australian Academic and Research Network
+18,210.7.39.251,0.00714,-0.31192,210.7.39.251,0.03567,0.37960,210.7.39.251,-0.00748,-0.63019,210.7.39.251,0.00653,-0.28566,Wellington Wellington Nueva Zelanda,-,Research and Educationa Advanced Network New Zealand (REANNZ)
+19,210.7.39.178,0.003,-0.41538,210.7.39.178,-0.03055,-1.08418,210.7.39.178,0.00566,-0.32749,210.7.39.178,-0.00331,-0.49420,Wellington Wellington Nueva Zelanda,-,Research and Educationa Advanced Network New Zealand (REANNZ)
+20,130.216.95.106,0.00792,-0.29227,130.216.95.106,0.00593,-0.27782,130.216.95.106,-0.00585,-0.59263,130.216.95.106,0.00029,-0.41799,Auckland Auckland Nueva Zelanda,br-cpf1-north.net.auckland.ac.nz,imported inetnum object for AUCKLA
+21,130.216.95.122,-0.00323,-0.57123,130.216.95.122,-0.00644,-0.55133,130.216.95.122,-0.00167,-0.49619,130.216.95.122,-0.00312,-0.49009,Auckland Auckland Nueva Zelanda,cxj-alfa-430.net.auckland.ac.nz,imported inetnum object for AUCKLA
+22,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,Desconocido,-,-,-,-,-
+23,130.216.159.127,-0.00794,-0.68881,130.216.159.127,0.00783,-0.23593,130.216.159.127,0.00152,-0.42282,Desconocido,-,-,Auckland Auckland Nueva Zelanda,www.auckland.ac.nz,imported inetnum object for AUCKLA
+,,,,,,,,,,130.216.159.127,-0.00658,-0.56357,,,
